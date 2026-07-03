@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Personal Website</title>
+</head>
+<body style="text-align:center;font-family:Arial;">
+  <h1>Sahariya Islam Shuvo</h1>
+
+  <img src="IMG-20260331-WA0014.jpg" width="200">
+
+  <h2>About Me</h2>
+  <p>Hello! Welcome to my personal website.</p>
+
+  <h2>Contact</h2>
+  <p>Email: sahariyaislamshuvo469@gmail.com</p>
+</body>
+</html>
