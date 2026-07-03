@@ -11,7 +11,7 @@ Welcome to my personal website. Here you can learn about me, my projects, skills
 
     <h1>Sahariya Islam Shuvo</h1>
 
-    <img src=IMG_2310.HEIC alt="My Photo" width="200">
+    <img src="IMG_2310.HEIC".HEIC alt="My Photo" width="200">
 
     <h2>About Me</h2>
     <p>Hello! I am Sahariya Islam Shuvo. Welcome to my personal website.</p>
